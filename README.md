@@ -4,9 +4,6 @@ LECCFirewall
 
 A dynamic communication firewall built on the *LECC framework* to ensure uninterrupted connectivity. **LeccFirewall** is an advanced communication management system that leverages the [LECC framework](https://github.com/AlejoMalia/lecc) to maintain connectivity in critical scenarios. It dynamically scans available protocols, prioritizes them based on user-defined roles, and reroutes data through fallback options when primary connections fail.
 
-
-    👁 The creator has tested this successfully, but functionality may vary depending on your system.
-
 ![Python](https://img.shields.io/badge/Python-3.7+-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 Features
