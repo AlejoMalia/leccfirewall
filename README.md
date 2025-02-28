@@ -19,7 +19,7 @@ Installation
 
 1.  Clone the repository:
     
-        git clone https://github.com/[TU_USUARIO]/LeccFirewall.git
+        git clone https://github.com/AlejoMalia/LeccFirewall.git
         cd LeccFirewall
     
 2.  Install dependencies:
